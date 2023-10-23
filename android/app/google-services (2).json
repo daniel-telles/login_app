@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372313678793",
+    "project_id": "login-app-ccb01",
+    "storage_bucket": "login-app-ccb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372313678793:android:ac71d2f287167c63d47e18",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjt3Et-PRWJHaQ1hnYKAM2t-NrS2O5XRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
